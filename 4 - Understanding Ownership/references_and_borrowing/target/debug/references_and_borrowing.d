@@ -1,1 +1,0 @@
-/home/lucas/ws/rust-book/4\ -\ Understanding\ Ownership/references_and_borrowing/target/debug/references_and_borrowing: /home/lucas/ws/rust-book/4\ -\ Understanding\ Ownership/references_and_borrowing/src/main.rs
